@@ -1,0 +1,7 @@
+*.class
+/.*
+!/.gitignore
+/EclipseProject
+/nbproject
+/build
+/dist
